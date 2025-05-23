@@ -7,8 +7,8 @@ import About from "./Components/About"
 import Cars from './Components/Cars';
 import Contact from "./Components/Contact"
 import CarDetails from './Components/carDetails';
-import Login from './Components/LogIn';
-import Register from './Components/Register';
+// import Login from './Components/LogIn';
+// import Register from './Components/Register';
 import Checkout from './Components/Checkout';
 
 
